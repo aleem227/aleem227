@@ -1,5 +1,5 @@
 ![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1000/api/page/5884875024367616/image/download/4962906573635584)
-<h1 align="center">Hi 👋, I'm Aleem Shakeel</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Aleem</h1>
 <h3 align="center">Passionate Data Analyst, Machine Learning, Deep Learning and Data Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleem227&label=Profile%20views&color=0e75b6&style=flat" alt="aleem227" /> </p>
