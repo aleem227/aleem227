@@ -1,4 +1,4 @@
-[![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=200/api/page/5884875024367616/image/download/4962906573635584)]
+[![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=500/api/page/5884875024367616/image/download/4962906573635584)]
 <h1 align="center">Hi 👋, I'm Aleem Shakeel</h1>
 <h3 align="center">Passionate Machine Learning, Deep Learning and Data Science Engineer.</h3>
 (img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-mobile.mp4")
