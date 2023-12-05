@@ -3,6 +3,8 @@
 <h3 align="center">Machine Learning, Deep Learning and Gen-AI Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleem227&label=Profile%20views&color=0e75b6&style=flat" alt="aleem227" /> </p>
 
+
+
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
 - 🌱 I’m currently working on **GPT, MidJourney, DALL-E-2, Azure Cloud Service**
@@ -31,6 +33,9 @@ Here are a few projects I've worked on:
 - [ML algorithm on Multiclass Continuous Data Values of Sensor](https://github.com/aleem227/ML-Algorithm-on-Continuous-Data-Values-Multiclasses) - The project requires to implement Machine Learning Algorithm on Multiclass Continuous Data Values coming from a sensor.
 
 (Complete Portfolio can be seen in Repositories)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aleem227&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <h3>Profile Stats:</h3>
 
