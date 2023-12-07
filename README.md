@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
 # 💫 About Me:
-🌱 I’m currently working on GPT, MidJourney, DALL-E-2, Azure Cloud Service<br><br>👨‍💻 My projects are available at github.com/aleem227<br><br>💬 Ask me anything about Machine Learning, Deep Learning and Data Science<br><br>📫 Reach me @ muhammad.aleem227@gmail.com<br><br>⚡ Fun fact: I love trying new technologies :)
+🌱 I’m currently working on GPT, MidJourney, DALL-E-2, Azure Cloud Service<br><br>💬 Ask me anything about Machine Learning, Deep Learning and Data Science<br><br>📫 Reach me @ muhammad.aleem227@gmail.com<br><br>⚡ Fun fact: I love trying new technologies :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleem227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AleemShakeel) 
